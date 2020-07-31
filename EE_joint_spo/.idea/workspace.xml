@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="65917ef0-ad8b-470a-9413-9b5d1f3b9298" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1demc0M5OmVNXdrJu2oeNnwqdJt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.bert4K_RE">
+    <configuration name="baidu2020_event_extract" type="PythonConfigurationType" factoryName="Python">
+      <module name="lic2020_baselines-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="PATH" value="/usr/local/cuda-10.0/bin" />
+        <env name="LD_LIBRARY_PATH" value="/usr/local/cuda-10.0/lib64" />
+      </envs>
+      <option name="SDK_HOME" value="sftp://chenjun@172.31.134.195:22/media/mawei/123bd683-36a2-4819-b886-69a51796e8501/chenjun/anaconda3/envs/ccks5/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ee.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="bert4K_RE" type="PythonConfigurationType" factoryName="Python">
+      <module name="lic2020_baselines-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="PATH" value="/usr/local/cuda-10.0/bin" />
+        <env name="LD_LIBRARY_PATH" value="/usr/local/cuda-10.0/lib64" />
+      </envs>
+      <option name="SDK_HOME" value="sftp://chenjun@172.31.134.195:22/media/mawei/123bd683-36a2-4819-b886-69a51796e8501/chenjun/anaconda3/envs/ccks5/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/task_relation_extraction_wxr.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.baidu2020_event_extract" />
+      <item itemvalue="Python.bert4K_RE" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="65917ef0-ad8b-470a-9413-9b5d1f3b9298" name="Default Changelist" comment="" />
+      <created>1592794008088</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592794008088</updated>
+      <workItem from="1592794011260" duration="12777000" />
+      <workItem from="1592873959431" duration="6203000" />
+      <workItem from="1592959756449" duration="4553000" />
+      <workItem from="1593306147209" duration="5445000" />
+      <workItem from="1593344072718" duration="2000" />
+      <workItem from="1593503006532" duration="2873000" />
+      <workItem from="1593518690788" duration="597000" />
+      <workItem from="1593566196584" duration="3457000" />
+      <workItem from="1593583848989" duration="391000" />
+      <workItem from="1593587330031" duration="2189000" />
+      <workItem from="1593655070790" duration="1294000" />
+      <workItem from="1593696191033" duration="8000" />
+      <workItem from="1593758951744" duration="772000" />
+      <workItem from="1593765418186" duration="391000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="107" key="#Deployment" timestamp="1592813205113">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="107" key="#Deployment/0.0.1440.900/-236.-1080.1920.1080@0.0.1440.900" timestamp="1592813205113" />
+    <state x="320" y="127" key="#Deployment/0.23.1440.877/-236.-1057.1920.1057@0.23.1440.877" timestamp="1592794116797" />
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1593769640540">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900/-236.-1080.1920.1080@0.0.1440.900" timestamp="1593309082687" />
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1593769640540" />
+    <state width="1440" height="438" key="DebuggerActiveHint" timestamp="1592814472290">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1440" height="438" key="DebuggerActiveHint/0.0.1440.900/-236.-1080.1920.1080@0.0.1440.900" timestamp="1592814472290" />
+    <state width="1440" height="438" key="DebuggerActiveHint/0.23.1440.877/-236.-1057.1920.1057@0.23.1440.877" timestamp="1592813883375" />
+    <state x="474" y="222" key="EnvironmentVariablesDialog" timestamp="1592813138881">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="474" y="222" key="EnvironmentVariablesDialog/0.0.1440.900/-236.-1080.1920.1080@0.0.1440.900" timestamp="1592813138881" />
+    <state width="1398" height="217" key="GridCell.Tab.0.bottom" timestamp="1593339881175">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="217" key="GridCell.Tab.0.bottom/0.0.1440.900/-236.-1080.1920.1080@0.0.1440.900" timestamp="1593339881175" />
+    <state width="1398" height="217" key="GridCell.Tab.0.center" timestamp="1593339881169">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="217" key="GridCell.Tab.0.center/0.0.1440.900/-236.-1080.1920.1080@0.0.1440.900" timestamp="1593339881169" />
+    <state width="1398" height="217" key="GridCell.Tab.0.left" timestamp="1593339881165">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="217" key="GridCell.Tab.0.left/0.0.1440.900/-236.-1080.1920.1080@0.0.1440.900" timestamp="1593339881165" />
+    <state width="1398" height="217" key="GridCell.Tab.0.right" timestamp="1593339881172">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="217" key="GridCell.Tab.0.right/0.0.1440.900/-236.-1080.1920.1080@0.0.1440.900" timestamp="1593339881172" />
+    <state width="1398" height="169" key="GridCell.Tab.1.bottom" timestamp="1592820901436">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="169" key="GridCell.Tab.1.bottom/0.0.1440.900/-236.-1080.1920.1080@0.0.1440.900" timestamp="1592820901436" />
+    <state width="1398" height="169" key="GridCell.Tab.1.center" timestamp="1592820901434">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="169" key="GridCell.Tab.1.center/0.0.1440.900/-236.-1080.1920.1080@0.0.1440.900" timestamp="1592820901434" />
+    <state width="1398" height="169" key="GridCell.Tab.1.left" timestamp="1592820901433">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="169" key="GridCell.Tab.1.left/0.0.1440.900/-236.-1080.1920.1080@0.0.1440.900" timestamp="1592820901433" />
+    <state width="1398" height="169" key="GridCell.Tab.1.right" timestamp="1592820901435">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="169" key="GridCell.Tab.1.right/0.0.1440.900/-236.-1080.1920.1080@0.0.1440.900" timestamp="1592820901435" />
+    <state x="221" y="79" key="SettingsEditor" timestamp="1593761714674">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="221" y="79" key="SettingsEditor/0.0.1440.900/-236.-1080.1920.1080@0.0.1440.900" timestamp="1592813177045" />
+    <state x="221" y="79" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1593761714674" />
+    <state x="221" y="100" key="SettingsEditor/0.23.1440.877/-236.-1057.1920.1057@0.23.1440.877" timestamp="1592794063558" />
+    <state x="100" y="100" width="1240" height="700" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1593307092779">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="100" y="100" width="1240" height="700" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1440.900/-236.-1057.1920.1057@0.0.1440.900" timestamp="1593307092779" />
+    <state x="378" y="207" width="683" height="486" key="find.popup" timestamp="1593570867004">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="378" y="207" width="683" height="486" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1593570867004" />
+    <state x="359" y="199" width="715" height="525" key="ftp.server.browser" timestamp="1592794115881">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="359" y="199" width="715" height="525" key="ftp.server.browser/0.23.1440.877/-236.-1057.1920.1057@0.23.1440.877" timestamp="1592794115881" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ee.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/task_relation_extraction_wxr.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/lic2020_baselines_master$bert4K_RE.coverage" NAME="bert4K_RE Coverage Results" MODIFIED="1593311783651" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/lic2020_baselines_master$baidu2020_event_extract.coverage" NAME="baidu2020_event_extract Coverage Results" MODIFIED="1592806117424" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
